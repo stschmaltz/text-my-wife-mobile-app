@@ -12,7 +12,7 @@
     "dependencies": {
         "@react-native-community/eslint-config": "0.0.7",
         "@typescript-eslint/eslint-plugin": "2.21.0",
-        "aws-sdk": "2.630.0",
+        "aws-sdk": "2.814.0",
         "date-fns": "2.10.0",
         "expo": "36.0.0",
         "prettier": "1.19.1",
